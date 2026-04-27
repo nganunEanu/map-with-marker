@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://tracking-bpm-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">75174051661</string>
+    <string name="google_api_key" translatable="false">AIzaSyASqxvBHQr5HWgcGTdEhHZQCqGrVnQ9TLA</string>
+    <string name="google_app_id" translatable="false">1:75174051661:android:8155cd0483ca4a63dd8104</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyASqxvBHQr5HWgcGTdEhHZQCqGrVnQ9TLA</string>
+    <string name="google_storage_bucket" translatable="false">tracking-bpm.firebasestorage.app</string>
+    <string name="project_id" translatable="false">tracking-bpm</string>
+</resources>
