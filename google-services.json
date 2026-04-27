@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "415832350851",
+    "firebase_url": "https://gpsv2-5fcbb-default-rtdb.firebaseio.com",
+    "project_id": "gpsv2-5fcbb",
+    "storage_bucket": "gpsv2-5fcbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415832350851:android:05067ca832279221fe3bb6",
+        "android_client_info": {
+          "package_name": "com.example.MapWithMarker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjvYH2AHnjpvgKPWXBqwbZAdX_OKFHdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415832350851:android:c51f44470441eae8fe3bb6",
+        "android_client_info": {
+          "package_name": "com.example.mapwithmarker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjvYH2AHnjpvgKPWXBqwbZAdX_OKFHdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
