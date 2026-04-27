@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal"
+    android:background="#FFFFFF">
+
+    <!-- BPM Box -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="center"
+        android:background="@drawable/border_box">
+
+        <TextView
+            android:id="@+id/tvBpmLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BPM"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/tvBpm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="80"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginTop="8dp"/>
+    </LinearLayout>
+
+
+    <!-- Location -->
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Location"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_marginTop="24dp" />
+
+    <TextView
+        android:id="@+id/tvMapLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="maps.google.com"
+        android:textSize="14sp"
+        android:textColor="#0000EE"
+        android:layout_marginTop="8dp" />
+
+    <!-- Button -->
+    <Button
+        android:id="@+id/btnAman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="#4CAF50"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:text="AMAN"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
